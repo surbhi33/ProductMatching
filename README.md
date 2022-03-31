@@ -20,4 +20,5 @@ a more diverse set of data points (e.g. books, electronics, etc.).
 - Logistic regression
 8. Neural Network
 9. For any new observation, compare it with K nearest observations and classify.
-![image](https://user-images.githubusercontent.com/46606885/160975157-8eef296b-1f1b-48a4-96b1-204b5dda952c.png)
+
+![image](https://user-images.githubusercontent.com/46606885/160975277-f7b0975e-0747-4d4d-8610-2079190a6da0.png)
